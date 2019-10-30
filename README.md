@@ -33,4 +33,5 @@ else:
 5. Contoh ke tiga dari bilangan lebih besar sebagian berikut :
 ![damn 4](https://user-images.githubusercontent.com/56994174/67833395-12382600-fb17-11e9-948d-66f2d5b9d7af.png)
 
-6. Ini adalah contoh flowchart dari hasil bilangan terbesar 
+6. Ini adalah contoh flowchart dari hasil bilangan terbesar :
+![bilangan terbesar](https://user-images.githubusercontent.com/56994174/67840053-97c3d200-fb27-11e9-9155-9d36c7012444.jpg)
