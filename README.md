@@ -24,7 +24,7 @@ else:
           print(nom_3, "terbesar dan", nom_1, "terkecil")
 ![damn 2](https://user-images.githubusercontent.com/56994174/67832827-70fca000-fb15-11e9-85be-c6a987f12393.png)
 
-3. Ini adalah contoh pertama dari hasil bilangan lebih besar sebagian berikut :
+3. Ini adalah contoh pertama dari hasil bilangan lebih terbesar sebagian berikut :
 ![pic bilangan 2](https://user-images.githubusercontent.com/56994174/67833000-fbdd9a80-fb15-11e9-9ae7-e88457c0b89a.png)
 
 4. Contoh ke dua dari hasil bilangan lebih terbesar :
